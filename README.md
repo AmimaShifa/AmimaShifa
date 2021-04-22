@@ -3,12 +3,12 @@
 <h1>Hi! 👋 </h1>
 <p> 
  I'm <b>Amima Shifa</b> currently a 2nd Year CSE student 👩‍💻 and a self-motivated programmer who is passionate about using technology to make world 🌏 a better place. I have been exploring different domains of computer science 🖥️ but the one that I found the most fascinating is <b>Artificial Intelligence</b> 🤖. 
-<br>This is a glimpse into my journey :<br>
+<!-- <br>This is a glimpse into my journey :<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amimashifa&layout=compact&theme=material-palenight" />
 </a>
-</p>
-<p>
+</p> -->
+<br><p>
 🗒️ Check my recent post on Medium :<br>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amimashifa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amimashifa/0" alt="Recent Article 0"> 
   </p>

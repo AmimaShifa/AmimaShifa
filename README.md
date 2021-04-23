@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/AmimaShifa/AmimaShifa/blob/main/coding.gif" width=30% height=30% ></div>
+<div align="center"><img src="https://github.com/AmimaShifa/AmimaShifa/blob/main/coding.gif" width=70% height=30% ></div>
   <br><br>
 <h1>Hi! 👋 </h1>
 <p> 

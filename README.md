@@ -10,7 +10,7 @@
 </p> -->
 <br><p>
 <h3>🗒️ Check my recent post on Medium :</h3>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amimashifa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amimashifa/1" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amimashifa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amimashifa/0" alt="Recent Article 0"> 
   </p>
 <p><h3><img src="https://img.icons8.com/dusk/20/000000/chat.png"> Connect with me on : </h3>
 <a href="https://www.linkedin.com/in/amima-shifa"><img width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />

@@ -1,21 +1,22 @@
-<div align="center"><img src="https://github.com/AmimaShifa/AmimaShifa/blob/main/coding.gif" width=30% height=30% ></div>
+<hr>
+<div align="center"><img src="https://github.com/AmimaShifa/AmimaShifa/blob/main/header.gif" ></div>
   <br><br>
-<h1>Hi! 👋 </h1>
+<h1>About Me </h1>
 <p> 
- I'm <b>Amima Shifa</b> currently a 2nd Year CSE student 👩‍💻 and a self-motivated programmer who is passionate about using technology to make world 🌏 a better place. I have been exploring different domains of computer science 🖥️ but the one that I found the most fascinating is <b>Artificial Intelligence</b> 🤖. 
-<!-- <br>This is a glimpse into my journey :<br>
+ I'm currently a 2nd year CSE undergrad student 👩‍💻 and a self-motivated programmer who is passionate about using technology to make world 🌏 a better place. <br><br>I have been exploring different domains of computer science 🖥️ and the recent one being <b>Artificial Intelligence</b> 🤖.<br>
+<br>This is a glimpse into my journey :<br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amimashifa&layout=compact&theme=material-palenight" />
 </a>
-</p> -->
-<br><p>
-<h3>🗒️ Check my recent post on Medium :</h3>
+</p><hr> 
+<p>
+<h1>🗒️ Check my recent post on Medium :</h1>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amimashifa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amimashifa/0" alt="Recent Article 0"> 
-  </p>
-<p><h3><img src="https://img.icons8.com/dusk/20/000000/chat.png"> Connect with me on : </h3>
-<a href="https://www.linkedin.com/in/amima-shifa"><img width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
-</a>
-</p>
+ </p><hr>
+<p><h1><img src="https://img.icons8.com/dusk/20/000000/chat.png"> Connect with me on : </h1>
+<pre><a href="https://www.linkedin.com/in/amima-shifa"><img width="12px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" /> LinkedIn 
+</a></pre>
+</p><hr>
 <!-- <h3>Languages and Tools:</h3>
 <p><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">

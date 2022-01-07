@@ -3,7 +3,7 @@
  <hr>
 <h2>✨ About Me</h2>
 <p> 
- I'm currently a 2nd year CSE undergrad student 👩‍💻 and a self-motivated programmer who is passionate about using technology to make world 🌏 a better place. <br><br>I have been exploring different domains of computer science 🖥️ , the recent one being <b>Artificial Intelligence</b> 🤖.<br>
+ I'm currently a 3rd year CSE undergrad student 👩‍💻 and a self-motivated programmer who is passionate about using technology to make world 🌏 a better place. <br><br>I have been exploring different domains of computer science 🖥️ , the recent one being <b>Artificial Intelligence</b> 🤖.<br>
 <br>This is a glimpse into my journey :<br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amimashifa&layout=compact&theme=material-palenight" />
@@ -17,7 +17,7 @@
 <pre><a href="https://www.linkedin.com/in/amima-shifa"><img width="12px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" /> LinkedIn 
 </a></pre>
 </p><hr>
-<!-- <h3>Languages and Tools:</h3>
+<!--]] <h3>Languages and Tools:</h3>
 <p><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">

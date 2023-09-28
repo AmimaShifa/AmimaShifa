@@ -3,7 +3,7 @@
  <hr>
 <h2>✨ About Me</h2>
 <p> 
- I'm a final year CSE undergrad student 👩‍💻 and a self-motivated programmer who is passionate about using technology to make world 🌏 a better place. <br><br>I have been exploring different domains of computer science 🖥️ , the recent one being <b>Artificial Intelligence</b> 🤖.<br>
+ I'm a graduate student pursuing my master's in Data Science and Analytics with a concentration in Computational Data Science and a self-motivated developer who is passionate about using technology to make the world 🌏 a better place. <br><br>I have been exploring different domains of computer science 🖥️ , the recent one being <b>Artificial Intelligence</b> 🤖.<br>
 <br>This is a glimpse into my journey :<br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amimashifa&layout=compact&theme=material-palenight" />
